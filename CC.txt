@@ -1,3 +1,4 @@
-Cloud is the remote server,
-wchich provides the storage,infrostructure and configurations, 
-  to users and comapnies.
+PAAS :
+Platform As A Service 
+salesforce.com is a example of PAAS it provide the platform for comapnies to 
+create, deploy and maintain the software.
