@@ -1,0 +1,3 @@
+Cloud is the remote server,
+wchich provides the storage,infrostructure and configurations, 
+  to users and comapnies.
